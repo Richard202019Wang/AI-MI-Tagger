@@ -14,4 +14,4 @@ Result Generation and Output: The function get_result() uses the results of the 
 
 Processing Test Data: The script reads in test data and applies the above steps to each sentence in the test data, writing the results to an output file.
 
-So, in summary, this project is about training a Hidden Markov Model with the Viterbi algorithm for POS tagging, using a given set of training data. It then applies the trained model to a test dataset and outputs the predicted POS tags.
+# So, in summary, this project is about training a Hidden Markov Model with the Viterbi algorithm for POS tagging, using a given set of training data. It then applies the trained model to a test dataset and outputs the predicted POS tags.
